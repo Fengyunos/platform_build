@@ -113,6 +113,7 @@ FRAMEWORKS_BASE_SUBDIRS := \
 	    media/mca/filterpacks \
 	    drm \
 	    opengl \
+            suda \
 	    sax \
 	    telecomm \
 	    telephony \
