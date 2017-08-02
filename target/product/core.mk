@@ -64,5 +64,6 @@ PRODUCT_SYSTEM_SERVER_APPS += \
     InputDevices \
     KeyChain \
     Telecom \
+    PhoneLocationProvider \
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_base.mk)
